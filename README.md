@@ -20,7 +20,7 @@ AMD users/users without CUDA installed will default to CPU computation and exper
 	myenv\Scripts\activate
 	
 3. Install requirements
-4. 
+   
 	pip install -r requirements.txt
 
 5.1 Run via Jupyter notebook
