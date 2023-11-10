@@ -13,10 +13,17 @@ AMD users will default to CPU computation and experience worse performance.
 3. Install requirements
 	pip install -r requirements.txt
 	
-4. Launch Jupyter Notebook
+### RUN VIA NOTEBOOK ###
+
+1. Launch Jupyter Notebook
 	jupyter notebook
 	
-5. Run screencap.ipynb in Jupyter Notebook
+2. Run screencap.ipynb in Jupyter Notebook
+
+### RUN VIA .PY FILE ###
+
+1. Run .py file
+	python run.py
 
 ## USAGE ## 
 
